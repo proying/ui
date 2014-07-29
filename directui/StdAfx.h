@@ -56,7 +56,7 @@
 #include <olectl.h>
 
 #ifdef _DEBUG
-	#include "vld.h"
+	//#include "vld.h"
 #endif
 
 #define lengthof(x) (sizeof(x)/sizeof(*x))
